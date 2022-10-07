@@ -40,3 +40,4 @@ Neste projeto, Eu fui capaz de:
 </details>
 
 ## Resultado Final do projeto
+<img src="./trybewallet.gif" alt="gif projeto" width="1920" heigth="1080"/>
